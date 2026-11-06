@@ -1,0 +1,1 @@
+This is my portfolio for Software Engineering and is on HTML with CSS. It needs to be downloaded with the photos library to ensure it works properly and then run the HTML file through a web browser. The Website consists of several features most about myself.
